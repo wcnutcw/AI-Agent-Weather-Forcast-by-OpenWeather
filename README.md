@@ -12,7 +12,7 @@ A Streamlit-based AI agent that provides weather information and time data using
 
 ## Prerequisites
 
-- Python 3.8 or higher
+- Python 3.12 or higher
 - AWS credentials configured (for Bedrock access)
 - OpenWeather API key (for weather data)
 
@@ -132,9 +132,9 @@ The system now properly detects:
 4. **Port Conflicts**: If port 8501 is in use, Streamlit will automatically use the next available port
 5. **Thai Language**: If Thai queries don't work, check that your system supports UTF-8 encoding
 
-## License
 
-📌 Important Notes (One Call 3.0)
+
+## 📌 Important Notes (One Call 3.0)
 
 If you see this in the JSON:
 
